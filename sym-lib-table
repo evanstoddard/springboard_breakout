@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Springboard_Dev")(type "KiCad")(uri "${KIPRJMOD}/Springboard_Dev.kicad_sym")(options "")(descr ""))
+)
