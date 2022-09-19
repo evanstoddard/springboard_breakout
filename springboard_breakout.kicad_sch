@@ -2146,7 +2146,7 @@
     (uuid 6a0aa490-19ca-457c-a296-49a539ad9b8e)
     (property "Reference" "J2" (id 0) (at 232.41 62.23 0))
     (property "Value" "Conn_02x20_Counter_Clockwise" (id 1) (at 232.41 64.77 0))
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical" (id 2) (at 231.14 91.44 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x20_P2.00mm_Vertical" (id 2) (at 231.14 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 231.14 91.44 0)
@@ -2231,7 +2231,7 @@
     (uuid f1593cea-29b5-487e-b841-997bb9f2975b)
     (property "Reference" "J1" (id 0) (at 184.15 62.23 0))
     (property "Value" "Conn_02x20_Counter_Clockwise" (id 1) (at 184.15 64.77 0))
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical" (id 2) (at 182.88 91.44 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x20_P2.00mm_Vertical" (id 2) (at 182.88 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 182.88 91.44 0)
@@ -2294,10 +2294,10 @@
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
     (path "/f1593cea-29b5-487e-b841-997bb9f2975b"
-      (reference "J1") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x20_P2.00mm_Vertical")
     )
     (path "/6a0aa490-19ca-457c-a296-49a539ad9b8e"
-      (reference "J2") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical")
+      (reference "J2") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinHeader_2.00mm:PinHeader_2x20_P2.00mm_Vertical")
     )
     (path "/3525a1a8-689f-4d13-8fbc-18f34174c2a4"
       (reference "U1") (unit 1) (value "Springboard_Connector") (footprint "springboard_breakout:Springboard Connector")
